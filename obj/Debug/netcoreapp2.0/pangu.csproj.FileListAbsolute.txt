@@ -1,0 +1,11 @@
+C:\Users\Clase\Documents\pangu\bin\Debug\netcoreapp2.0\pangu.deps.json
+C:\Users\Clase\Documents\pangu\bin\Debug\netcoreapp2.0\pangu.runtimeconfig.json
+C:\Users\Clase\Documents\pangu\bin\Debug\netcoreapp2.0\pangu.runtimeconfig.dev.json
+C:\Users\Clase\Documents\pangu\bin\Debug\netcoreapp2.0\pangu.dll
+C:\Users\Clase\Documents\pangu\bin\Debug\netcoreapp2.0\pangu.pdb
+C:\Users\Clase\Documents\pangu\obj\Debug\netcoreapp2.0\pangu.csprojAssemblyReference.cache
+C:\Users\Clase\Documents\pangu\obj\Debug\netcoreapp2.0\pangu.csproj.CoreCompileInputs.cache
+C:\Users\Clase\Documents\pangu\obj\Debug\netcoreapp2.0\pangu.AssemblyInfoInputs.cache
+C:\Users\Clase\Documents\pangu\obj\Debug\netcoreapp2.0\pangu.AssemblyInfo.cs
+C:\Users\Clase\Documents\pangu\obj\Debug\netcoreapp2.0\pangu.dll
+C:\Users\Clase\Documents\pangu\obj\Debug\netcoreapp2.0\pangu.pdb
