@@ -1,15 +1,36 @@
-﻿@{
+﻿
+@{
     ViewData["Title"] = "Cita";
 }
-<script type="type/javascript">
-$("#tc1").click(function(){
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<head>
 
 
-    
+      
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+    $("#tc1").click(function(event){
+
+        $('#dir').show("1000");
+
+    })
+    $("#tc2").click(function(event){
+
+        $('#dir').hide("1000");
+
+    })
+
+
 })
 
 </script>
-
+</head> 
 <div class="container"> 
     <div class="row">
         <div class="col-md-6 col-md-offset-4">
