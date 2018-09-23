@@ -28,6 +28,12 @@ namespace pangu.Controllers
 
             return View();
         }
+         public IActionResult Cita()
+        {
+            ViewData["Message"] = "Registra aqui tu cita";
+
+            return View();
+        }
 
         public IActionResult Error()
         {
