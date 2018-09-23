@@ -1,6 +1,15 @@
 ﻿@{
     ViewData["Title"] = "Cita";
 }
+<script type="type/javascript">
+$("#tc1").click(function(){
+
+
+    
+})
+
+</script>
+
 <div class="container"> 
     <div class="row">
         <div class="col-md-6 col-md-offset-4">
@@ -76,10 +85,13 @@
             <div class="form-group">
                 <label for="">Tipo de cita:</label>
                  <select  class="form-control">
-                    <option value="C1">Veterinaria</option>
-                    <option value="C2">A domicilio</option>
+                    <option value="C1" id="tc1">Veterinaria</option>
+                    <option value="C2" id="tc2">A domicilio</option>
                 </select>
                 
+            </div>
+            <div class="form-group" id="dir">
+                <input type="text" placeholder="Dirección" class="form-control">
             </div>
 
         </form> 
