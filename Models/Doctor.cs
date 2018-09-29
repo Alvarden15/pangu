@@ -10,6 +10,8 @@ namespace pangu.Models
         public string tipoCita{get; set;}
 
         public int celular { get; set; }
-        
+
+        int numero = 5 ;
+
     }
 }
