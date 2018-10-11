@@ -15,7 +15,7 @@ namespace Models.CitaContext
 
          protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-        optionsBuilder.UseMySQL("server=localhost;database=library10;user=root;password=1234567;port=3306");
+        optionsBuilder.UseMySQL("server=localhost;database=Vertivina;user=root;password=1234567;port=3306");
          }
 
     }
