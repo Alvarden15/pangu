@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 namespace pangu.Models
 {
     public class Cita{
+        public int ID{get; set;}
         [Required]
         [MinLength(4)]
         public string Nombre { get; set; }
