@@ -19,7 +19,7 @@ namespace pangu.Models
 
         public string Doctor{get; set;}
         [Required]
-        [DisplayFormat(DataFormatString = "{dd-mm-yyyy}", ApplyFormatInEditMode = true)]
+        [DisplayFormat(DataFormatString = "{0:yyy-MM-dd}", ApplyFormatInEditMode = true)]
         public DateTime Fecha{get; set;}
 
         public string TipoMascota{get; set;}

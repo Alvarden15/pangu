@@ -11,7 +11,7 @@ namespace pangu.Models
 
         public int celular { get; set; }
 
-        int numero = 5 ;
+        
 
     }
 }
