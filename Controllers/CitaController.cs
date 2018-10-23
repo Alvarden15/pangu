@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using pangu.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Models.MvcContext;
 
 
 namespace pangu.Controllers{
